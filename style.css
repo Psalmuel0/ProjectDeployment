@@ -138,7 +138,7 @@ button{
 
 @media screen and (max-width: 992px) {
     .hero{
-        margin-top: 100px;
+        margin-top: -22px;
         flex-direction: column;
         justify-content: center;
         height: calc(100vh - 100px);
